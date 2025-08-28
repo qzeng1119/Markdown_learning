@@ -8,8 +8,8 @@
 ## Text Decorations
 | Rendered Output | Source Code |
 | :-----: | :-----: |
-| **bold** | `**bold** or __bold__` |  
-| *italics* | `*italics* or _italics_` |   
+| **bold** | `**bold**` or `__bold__` |  
+| *italics* | `*italics*` or `_italics_` |   
 | ~~cross off~~ | `~~cross off~~` |  
 | <mark>highlight</mark> | `<mark>highlight</mark>` |   
 | text<sup>superscript</sup> | `text<sup>superscript</sup>` |  
